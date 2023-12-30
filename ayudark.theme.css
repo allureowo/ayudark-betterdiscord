@@ -1,0 +1,25 @@
+/**
+ * @name ayu dark
+ * @author fluf.fy
+ * @version 1.0.0
+ * @description A cold, dark & frosty theme.
+ * @source https://github.com/allureowo/ayudark-betterdiscord/
+ * @BDEditor Dark Matter
+*/
+
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/7SbtKvw.png');
+  --home-image: url('https://www.icegif.com/wp-content/uploads/2022/09/icegif-374.gif');
+  --accent: 223,191,255;
+  --accent-alt: 223,191,255;
+  --background-solid: #0F1419;
+  --background-solid-dark: #0F1419;
+  --background-solid-darker: #0F1419;
+}
+
+/* Any custom CSS below here */
+
+
